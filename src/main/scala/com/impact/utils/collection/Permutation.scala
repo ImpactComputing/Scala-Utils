@@ -13,7 +13,7 @@
  ** limitations under the License.
  */
 
-package com.impact.utils
+package com.impact.utils.collection
 
 import scalaz.Liskov, Liskov. _
 

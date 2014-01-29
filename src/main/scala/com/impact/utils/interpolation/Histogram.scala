@@ -15,7 +15,7 @@
 
 package com.impact.utils.interpolation
 
-import com.impact.utils.Permutation
+import com.impact.utils.collection.Permutation
 
 /**
   * Not really a histogram, more of a bucket-based interpolation
